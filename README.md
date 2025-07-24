@@ -50,40 +50,25 @@ Edit
 ```bash
 git clone https://github.com/ChennarapuJyothika/your-repo-name.git
 cd your-repo-name
-Install dependencies
-
-bash
-Copy
-Edit
+2.Install dependencies
 pip install flask pandas numpy scikit-learn plotly xgboost imbalanced-learn
-Run the app
-
-bash
-Copy
-Edit
+3.Run the app
 python app1.py
-Access in browser
-
+4.Access in browser
 Open http://127.0.0.1:5000
 
 Login:
-
-pgsql
-Copy
-Edit
 Username: admin  
 Password: admin
-📈 Power BI Integration
+## Power BI Integration
 Make sure Power BI is installed at:
-
-mathematica
-Copy
-Edit
 C:\Program Files\Microsoft Power BI Desktop\bin\PBIDesktop.exe
-Click the "Open Power BI" button in the app to launch Ecommerce.pbix.
-
-🧑‍💻 Author
+Click the "Open Power BI" button in the app to launch Ecommerce.pbix
+##  Author
 Chennarapu Jyothika
 GitHub: ChennarapuJyothika
 
- 
+
+
+
+
