@@ -1,4 +1,4 @@
-# 🛍️ Ecommerce Sales & Profit Prediction Dashboard
+# 🛍️ AI-Powered Sales Forecasting and Dashboard Analytics For E-Commerce 
 
 A web-based analytics application built with **Flask**, **Plotly**, and **Power BI** that allows users to:
 
@@ -60,11 +60,11 @@ Open http://127.0.0.1:5000
 Login:
 Username: admin  
 Password: admin
-📈Power BI Integration
+## 📈Power BI Integration
 Make sure Power BI is installed at:
 C:\Program Files\Microsoft Power BI Desktop\bin\PBIDesktop.exe
 Click the "Open Power BI" button in the app to launch Ecommerce.pbix
-🧑‍💻Author
+## 🧑‍💻Author
 Chennarapu Jyothika
 GitHub: ChennarapuJyothika
 
